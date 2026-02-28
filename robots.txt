@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://tapsave.github.io/tapsave/sitemap.xml
+Sitemap: https://lgp1999.github.io/tapsave/sitemap.xml
